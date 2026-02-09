@@ -50,6 +50,7 @@ This notebook contains:
 ---
 
 ## 📂 Project Structure
+---
 SmartCartSegmentationSystem/
 │
 ├── smartcart.ipynb
@@ -69,11 +70,11 @@ SmartCartSegmentationSystem/
 
 | Chart 1 | Chart 2 |
 |---|---|
-| ![Chart1](images/c1.png) | ![Chart2](images/c2.png) |
+| ![Chart1](c1.png) | ![Chart2](c2.png) |
 
 | Chart 3 | Chart 4 |
 |---|---|
-| ![Chart3](images/c3.png) | ![Chart4](images/c4.png) |
+| ![Chart3](c3.png) | ![Chart4](c4.png) |
 
 These charts highlight:
 - Age distribution  
